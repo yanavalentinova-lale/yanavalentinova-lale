@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hey there! I'm Yana 👋
 
-<!--
-**yanavalentinova-lale/yanavalentinova-lale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **curious marketing strategist**, exploring the world of product management.
 
-Here are some ideas to get you started:
+My background is in **marketing strategy, digital experiences, and cross-functional project management**. I'm currently expanding my skills in product development, UX, and data analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 What I'm Exploring
+* **Product Strategy & Discovery:** User interviews, feature prioritization, and market positioning.
+* **UX/UI & User-Centred Design:** Wireframing and design flows in Figma.
+* **SQL & Product Analytics:** Understanding user behavior through data.
+* **Agile Workflows:** Sprint planning and iterative product development.
+
+---
+
+### 🚀 What You'll Find Here
+A growing collection of hands-on projects, product teardowns, and learning exercises as I develop my product management toolkit.
+
+---
+
+📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/yanavalentinova) | [Portfolio](https://tinyurl.com/yana-v-portfolio) 
